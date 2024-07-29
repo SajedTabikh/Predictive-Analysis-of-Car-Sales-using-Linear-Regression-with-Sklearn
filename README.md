@@ -57,10 +57,3 @@ These metrics help in understanding the accuracy and reliability of the model.
 
 The predictive model successfully identifies trends and patterns in historical sales data, providing valuable insights for forecasting future car sales. The results can be used by the company to make informed business decisions.
 
-## Usage
-
-To use this project, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/car-sales-predictive-analysis.git
